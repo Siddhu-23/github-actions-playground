@@ -1,10 +1,10 @@
-name: Master
+name: Main
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "* * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
