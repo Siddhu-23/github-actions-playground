@@ -1,0 +1,20 @@
+{
+  "name": "github-actions-playground",
+  "version": "1.0.0",
+  "description": "Exploring Github actions",
+  "main": "index.js",
+  "scripts": {
+    "build" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddhu-23/github-actions-playground.git"
+  },
+  "author": "Siddhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddhu-23/github-actions-playground/issues"
+  },
+  "homepage": "https://github.com/Siddhu-23/github-actions-playground#readme"
+}
